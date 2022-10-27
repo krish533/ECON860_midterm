@@ -1,6 +1,7 @@
 # ECON860_midterm
 .............Part 1.............
 I. Requesting and Parsing
+
 Requesting html page from the given webpage.
 Using the beautiful soup get into the html of the page for parse.
 df_login: creates a column based on defined headings-login id,Repo cout, follower count, and member since.
