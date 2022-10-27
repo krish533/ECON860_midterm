@@ -18,8 +18,7 @@ f.close()
 github_session = requests.Session()
 github_session.auth = (username, token)
 
-github_session =requests.Session()
-github_session.auth = ("krish533" ,"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")
+
 
 access_point = "https://api.github.com"
 
