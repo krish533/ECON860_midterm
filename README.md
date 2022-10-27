@@ -1,5 +1,5 @@
 # ECON860_midterm
-//.............Part 1.............//
+//.............Part1 (part1.py)............//
 I. Requesting and Parsing//
 
 //Requesting html page from the given webpage.//
@@ -22,7 +22,7 @@ I. Requesting and Parsing//
 Saving the file into CSV format//
 
 
-//.................Part 2.................///
+//.................Part 2(part2.py).................///
 
 //First, we import different packages required for us.//
 //Second, we use githiub personal token. We are storing the id and token in different files. We recall these information by using f.() .// 
@@ -35,11 +35,14 @@ We use json to get a dictionary so that we can extract the required dataset.//
 
 //Finally, We are saving this information to csv file//
 
+//...........part2_bonus (part2_bonus.py)......//
+extracting the infomraiton of followers from the user
 
 
 
 
-.........Part 3.................
+
+.........Part 3 (part3.py).................
 //We have used the describe commad to generate max,min,mean ,count and standard deviation.//
 //For correlation, we have used Scatter plot.//
 //For plot, we have created dataset by using .tolist .//
