@@ -37,6 +37,7 @@ We use json to get a dictionary so that we can extract the required dataset.//
 
 //...........part2_bonus (part2_bonus.py)......//
 extracting the infomraiton of followers from the user
+??sample data is uploaded as soc_followers.csv
 
 
 
